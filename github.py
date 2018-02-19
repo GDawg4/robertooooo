@@ -1,1 +1,3 @@
-print("Hello World")
+
+while TRUE:
+  print("Hello World")
